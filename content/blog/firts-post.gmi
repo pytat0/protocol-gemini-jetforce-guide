@@ -1,0 +1,23 @@
+
+# header
+
+## sub-header
+
+### sub-sub-header
+
+only 3 levels of heders. this is simple text
+
+``` comment for screen readers here
+this
+    is
+        formated text 
+        or 
+            code
+```
+
+> some smart quote (or not so smart)
+
+* bullet list
+* only 1 level
+
+=> https://gmi.skyjake.fi/lagrange/ Link

@@ -1,0 +1,8 @@
+
+# Blog posts
+
+=> first-post.gmi First post with gemini syntax
+
+---
+
+Have a nice day!
